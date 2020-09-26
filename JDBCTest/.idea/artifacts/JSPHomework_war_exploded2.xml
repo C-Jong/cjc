@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JSPHomework:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/JSPHomework_war_exploded2</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JSPHomework/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JSPHomework" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/sqljdbc4-2.0.jar" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.17" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

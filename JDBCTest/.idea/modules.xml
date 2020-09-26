@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JDBCTest01/JDBCTest01.iml" filepath="$PROJECT_DIR$/JDBCTest01/JDBCTest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC_CRUD/JDBC_CRUD.iml" filepath="$PROJECT_DIR$/JDBC_CRUD/JDBC_CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSPHomework/JSPHomework.iml" filepath="$PROJECT_DIR$/JSPHomework/JSPHomework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSPHomework9-18/JSPHomework9-18.iml" filepath="$PROJECT_DIR$/JSPHomework9-18/JSPHomework9-18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSPHomework9-25/JSPHomework9-25.iml" filepath="$PROJECT_DIR$/JSPHomework9-25/JSPHomework9-25.iml" />
+    </modules>
+  </component>
+</project>
